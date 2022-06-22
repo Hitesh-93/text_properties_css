@@ -1,0 +1,35 @@
+h2 {
+    color: green;
+    text-align: center;
+    text-decoration: line-through;
+
+    /* text-decoration: overline;
+    text-decoration: underline; */
+}
+
+#para1 {
+    color: rgb(140, 67, 158);
+    line-height: 1cm;
+    letter-spacing: 5px;
+    text-align: justify;
+    text-indent: 1in;
+    text-transform: capitalize;
+
+
+    /* text-transform: lowercase;
+    text-transform: uppercase; */
+}
+
+#para2 {
+    color: #8b2727;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bolder;
+    font-variant: small-caps;
+}
+
+h3{
+    color: rgba(5, 126, 120, 0.801);
+    font-family: 'Poppins', sans-serif;
+}
